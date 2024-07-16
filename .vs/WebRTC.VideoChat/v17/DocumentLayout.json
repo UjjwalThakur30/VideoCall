@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\webrtc-video-chat-master-Withchatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|e:\\webrtc-video-chat-master-withchatting\\videochat\\scripts\\webrtcdemo\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\scripts\\webrtcdemo\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|E:\\webrtc-video-chat-master-Withchatting\\videochat\\hubs\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\hubs\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|E:\\webrtc-video-chat-master-Withchatting\\videochat\\scripts\\adapter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\scripts\\adapter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|E:\\webrtc-video-chat-master-Withchatting\\videochat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|E:\\webrtc-video-chat-master-Withchatting\\videochat\\scripts\\webrtcdemo\\connectionmanager.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\scripts\\webrtcdemo\\connectionmanager.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|E:\\webrtc-video-chat-master-Withchatting\\videochat\\scripts\\webrtcdemo\\viewmodel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\scripts\\webrtcdemo\\viewmodel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|E:\\webrtc-video-chat-master-Withchatting\\videochat\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26D135CF-133C-4392-918A-BCB1E9F16DB5}|VideoChat\\VideoChat.csproj|solutionrelative:videochat\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adapter.js",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\adapter.js",
+              "RelativeDocumentMoniker": "VideoChat\\Scripts\\adapter.js",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\adapter.js",
+              "RelativeToolTip": "VideoChat\\Scripts\\adapter.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T06:37:00.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebRtcHub.cs",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Hubs\\WebRtcHub.cs",
+              "RelativeDocumentMoniker": "VideoChat\\Hubs\\WebRtcHub.cs",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Hubs\\WebRtcHub.cs",
+              "RelativeToolTip": "VideoChat\\Hubs\\WebRtcHub.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAowM0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:22:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "connectionManager.js",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\webrtcdemo\\connectionManager.js",
+              "RelativeDocumentMoniker": "VideoChat\\Scripts\\webrtcdemo\\connectionManager.js",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\webrtcdemo\\connectionManager.js",
+              "RelativeToolTip": "VideoChat\\Scripts\\webrtcdemo\\connectionManager.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T05:37:37.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewModel.js",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\webrtcdemo\\viewModel.js",
+              "RelativeDocumentMoniker": "VideoChat\\Scripts\\webrtcdemo\\viewModel.js",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\webrtcdemo\\viewModel.js",
+              "RelativeToolTip": "VideoChat\\Scripts\\webrtcdemo\\viewModel.js",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T07:23:15.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.css",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Content\\Site.css",
+              "RelativeDocumentMoniker": "VideoChat\\Content\\Site.css",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Content\\Site.css",
+              "RelativeToolTip": "VideoChat\\Content\\Site.css",
+              "ViewState": "AQIAADcAAAAAAAAAAAD4v0MAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T07:22:10.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VideoChat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VideoChat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T06:59:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\webrtcdemo\\app.js",
+              "RelativeDocumentMoniker": "VideoChat\\Scripts\\webrtcdemo\\app.js",
+              "ToolTip": "E:\\webrtc-video-chat-master-Withchatting\\VideoChat\\Scripts\\webrtcdemo\\app.js",
+              "RelativeToolTip": "VideoChat\\Scripts\\webrtcdemo\\app.js",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwJQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T06:35:59.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
